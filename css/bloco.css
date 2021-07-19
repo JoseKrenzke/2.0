@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: rgb(92, 255, 59);
+    background-image: url(https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/12/fundo-preto-background61-1024x540.jpeg?resize=696%2C367&ssl=1);
+    width:100%;
+    height: 100vh;
+    padding : 50px 0;
+}
+
+.form-control {
+    display:initial;
+    width: 36%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.container {
+     
+    border-radius: 10px; 
+    box-shadow:15px 20px 0px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.box{
+    height: 125px;
+}
+
+.table{
+    color: rgb(92, 255, 59);
+}
+
+.btn{
+    width: 100%!important;
+    cursor: pointer;  
+    background: rgb(0, 0, 0);
+    padding: 8px 5px;
+    color: #fff;
+    font-size: 20px;  
+    border: 1px solid rgb(92, 255, 59);   
+    margin-bottom: 10px;  
+    text-shadow: 0 1px 1px rgb(92, 255, 59);
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+  };
+    
